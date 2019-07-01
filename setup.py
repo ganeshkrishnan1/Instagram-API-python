@@ -12,6 +12,6 @@ setup(
     zip_safe=False,
     install_requires=[
         "requests==2.20.1",
-        "requests-toolbelt==0.7.0",
+        "requests-toolbelt==2.1.0",
         "moviepy==0.2.3.2"
     ])
